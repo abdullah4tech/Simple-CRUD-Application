@@ -2,17 +2,6 @@
 
 This is a simple CRUD (Create, Read, Update, Delete) application built using Vue.js and Tailwind CSS. The application allows you to dynamically manage a list of items.
 
-## Table of Contents 📚
-
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Built With](#built-with)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
 ## Getting Started 🚀
 
 Follow these instructions to get a copy of the project up and running on your local machine.
